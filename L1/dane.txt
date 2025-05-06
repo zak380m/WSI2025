@@ -1,0 +1,269 @@
+Ładowanie danych EMNIST...
+Ładowanie własnych danych testowych (custom)...
+Trenowanie sieci neuronowej...
+Rozpoczynamy trening sieci neuronowej...
+[1, 100] loss: 0.655
+[1, 200] loss: 0.251
+[1, 300] loss: 0.209
+[1, 400] loss: 0.196
+[1, 500] loss: 0.165
+[1, 600] loss: 0.148
+[1, 700] loss: 0.155
+[1, 800] loss: 0.139
+[1, 900] loss: 0.133
+[2, 100] loss: 0.094
+[2, 200] loss: 0.106
+[2, 300] loss: 0.098
+[2, 400] loss: 0.102
+[2, 500] loss: 0.086
+[2, 600] loss: 0.084
+[2, 700] loss: 0.095
+[2, 800] loss: 0.089
+[2, 900] loss: 0.079
+[3, 100] loss: 0.067
+[3, 200] loss: 0.068
+[3, 300] loss: 0.066
+[3, 400] loss: 0.059
+[3, 500] loss: 0.071
+[3, 600] loss: 0.060
+[3, 700] loss: 0.055
+[3, 800] loss: 0.057
+[3, 900] loss: 0.060
+[4, 100] loss: 0.040
+[4, 200] loss: 0.057
+[4, 300] loss: 0.044
+[4, 400] loss: 0.047
+[4, 500] loss: 0.050
+[4, 600] loss: 0.055
+[4, 700] loss: 0.056
+[4, 800] loss: 0.053
+[4, 900] loss: 0.052
+[5, 100] loss: 0.035
+[5, 200] loss: 0.040
+[5, 300] loss: 0.034
+[5, 400] loss: 0.035
+[5, 500] loss: 0.042
+[5, 600] loss: 0.041
+[5, 700] loss: 0.039
+[5, 800] loss: 0.046
+[5, 900] loss: 0.041
+[6, 100] loss: 0.029
+[6, 200] loss: 0.024
+[6, 300] loss: 0.030
+[6, 400] loss: 0.030
+[6, 500] loss: 0.035
+[6, 600] loss: 0.041
+[6, 700] loss: 0.038
+[6, 800] loss: 0.040
+[6, 900] loss: 0.036
+[7, 100] loss: 0.022
+[7, 200] loss: 0.022
+[7, 300] loss: 0.028
+[7, 400] loss: 0.030
+[7, 500] loss: 0.029
+[7, 600] loss: 0.025
+[7, 700] loss: 0.027
+[7, 800] loss: 0.034
+[7, 900] loss: 0.040
+[8, 100] loss: 0.019
+[8, 200] loss: 0.024
+[8, 300] loss: 0.019
+[8, 400] loss: 0.027
+[8, 500] loss: 0.030
+[8, 600] loss: 0.030
+[8, 700] loss: 0.027
+[8, 800] loss: 0.028
+[8, 900] loss: 0.028
+Zakończono trening sieci neuronowej.
+Model sieci neuronowej zapisano do nn_model.pth.
+Trenowanie konwolucyjnej sieci neuronowej (CNN)...
+Rozpoczynamy trening sieci neuronowej...
+[1, 100] loss: 0.361
+[1, 200] loss: 0.105
+[1, 300] loss: 0.098
+[1, 400] loss: 0.068
+[1, 500] loss: 0.077
+[1, 600] loss: 0.067
+[1, 700] loss: 0.056
+[1, 800] loss: 0.047
+[1, 900] loss: 0.061
+[2, 100] loss: 0.041
+[2, 200] loss: 0.049
+[2, 300] loss: 0.032
+[2, 400] loss: 0.039
+[2, 500] loss: 0.036
+[2, 600] loss: 0.028
+[2, 700] loss: 0.046
+[2, 800] loss: 0.038
+[2, 900] loss: 0.038
+[3, 100] loss: 0.034
+[3, 200] loss: 0.028
+[3, 300] loss: 0.031
+[3, 400] loss: 0.027
+[3, 500] loss: 0.022
+[3, 600] loss: 0.034
+[3, 700] loss: 0.027
+[3, 800] loss: 0.024
+[3, 900] loss: 0.034
+[4, 100] loss: 0.019
+[4, 200] loss: 0.021
+[4, 300] loss: 0.021
+[4, 400] loss: 0.024
+[4, 500] loss: 0.026
+[4, 600] loss: 0.027
+[4, 700] loss: 0.015
+[4, 800] loss: 0.029
+[4, 900] loss: 0.027
+[5, 100] loss: 0.017
+[5, 200] loss: 0.014
+[5, 300] loss: 0.021
+[5, 400] loss: 0.017
+[5, 500] loss: 0.020
+[5, 600] loss: 0.022
+[5, 700] loss: 0.019
+[5, 800] loss: 0.021
+[5, 900] loss: 0.024
+[6, 100] loss: 0.017
+[6, 200] loss: 0.014
+[6, 300] loss: 0.015
+[6, 400] loss: 0.012
+[6, 500] loss: 0.011
+[6, 600] loss: 0.019
+[6, 700] loss: 0.018
+[6, 800] loss: 0.015
+[6, 900] loss: 0.018
+[7, 100] loss: 0.011
+[7, 200] loss: 0.013
+[7, 300] loss: 0.012
+[7, 400] loss: 0.017
+[7, 500] loss: 0.020
+[7, 600] loss: 0.011
+[7, 700] loss: 0.028
+[7, 800] loss: 0.015
+[7, 900] loss: 0.014
+[8, 100] loss: 0.005
+[8, 200] loss: 0.009
+[8, 300] loss: 0.014
+[8, 400] loss: 0.013
+[8, 500] loss: 0.011
+[8, 600] loss: 0.011
+[8, 700] loss: 0.005
+[8, 800] loss: 0.011
+[8, 900] loss: 0.007
+Zakończono trening sieci neuronowej.
+Model konwolucyjnej sieci neuronowej zapisano do cnn_model.pth.
+Trenowanie Random Forest...
+Rozpoczynamy trening klasyfikatora Random Forest...
+Załadowano 100 batchy danych do Random Forest.
+Załadowano 200 batchy danych do Random Forest.
+Załadowano 300 batchy danych do Random Forest.
+Załadowano 400 batchy danych do Random Forest.
+Załadowano 500 batchy danych do Random Forest.
+Załadowano 600 batchy danych do Random Forest.
+Załadowano 700 batchy danych do Random Forest.
+Załadowano 800 batchy danych do Random Forest.
+Załadowano 900 batchy danych do Random Forest.
+Zakończono trening klasyfikatora Random Forest.
+Model Random Forest zapisano do rf_model.pkl.
+
+Testowanie sieci neuronowej na danych EMNIST...
+Rozpoczynamy testowanie...
+Wyniki testowania:
+Accuracy: 0.9779
+Precision: 0.9781
+Recall: 0.9779
+Cyfra 0: [990   4   0   0   0   3   1   0   2   0]
+Cyfra 1: [  0 993   2   0   3   1   0   0   1   0]
+Cyfra 2: [  4   3 971  11   1   2   2   2   4   0]
+Cyfra 3: [  1   1   4 967   0  20   0   2   2   3]
+Cyfra 4: [  0   1   3   0 983   1   2   2   0   8]
+Cyfra 5: [  1   0   1   3   0 985   7   1   1   1]
+Cyfra 6: [  1   0   0   0   0   3 996   0   0   0]
+Cyfra 7: [  2   1   0   1   2   2   0 983   0   9]
+Cyfra 8: [  2   9   2  13   7   9   4   0 946   8]
+Cyfra 9: [  2   2   1   1  18  10   0   1   0 965]
+
+Testowanie sieci neuronowej na własnych danych testowych...
+Rozpoczynamy testowanie...
+Wyniki testowania:
+Accuracy: 0.6000
+Precision: 0.6731
+Recall: 0.6000
+Cyfra 0: [1 0 0 0 0 2 0 0 0 0]
+Cyfra 1: [0 2 0 0 0 1 0 0 0 0]
+Cyfra 2: [0 2 1 0 0 0 0 0 0 0]
+Cyfra 3: [0 0 0 0 0 3 0 0 0 0]
+Cyfra 4: [0 0 0 0 2 1 0 0 0 0]
+Cyfra 5: [0 0 0 0 0 3 0 0 0 0]
+Cyfra 6: [0 0 0 0 0 3 0 0 0 0]
+Cyfra 7: [0 0 0 0 0 0 0 3 0 0]
+Cyfra 8: [0 0 0 0 0 0 0 0 3 0]
+Cyfra 9: [0 0 0 0 0 0 0 0 0 3]
+
+Testowanie konwolucyjnej sieci neuronowej (CNN) na danych EMNIST...
+Rozpoczynamy testowanie...
+Wyniki testowania:
+Accuracy: 0.9899
+Precision: 0.9900
+Recall: 0.9899
+Cyfra 0: [986   1   7   0   0   1   3   0   2   0]
+Cyfra 1: [  0 992   5   1   1   0   0   1   0   0]
+Cyfra 2: [  0   0 994   2   1   1   0   2   0   0]
+Cyfra 3: [  0   0   6 992   0   1   0   0   1   0]
+Cyfra 4: [  0   0   4   0 976   0   1   3   0  16]
+Cyfra 5: [  0   0   1   2   0 990   3   1   2   1]
+Cyfra 6: [  0   0   1   0   1   1 997   0   0   0]
+Cyfra 7: [  0   0   1   1   0   0   0 996   0   2]
+Cyfra 8: [  0   0   6   2   0   2   0   2 984   4]
+Cyfra 9: [  0   0   1   1   0   0   0   5   1 992]
+
+Testowanie konwolucyjnej sieci neuronowej (CNN) na własnych danych testowych...
+Rozpoczynamy testowanie...
+Wyniki testowania:
+Accuracy: 0.8333
+Precision: 0.8950
+Recall: 0.8333
+Cyfra 0: [2 0 0 0 0 0 0 0 0 1]
+Cyfra 1: [0 2 0 0 0 0 0 0 0 1]
+Cyfra 2: [0 0 2 1 0 0 0 0 0 0]
+Cyfra 3: [0 0 0 3 0 0 0 0 0 0]
+Cyfra 4: [0 0 0 0 3 0 0 0 0 0]
+Cyfra 5: [0 0 0 0 0 3 0 0 0 0]
+Cyfra 6: [0 0 0 0 0 2 1 0 0 0]
+Cyfra 7: [0 0 0 0 0 0 0 3 0 0]
+Cyfra 8: [0 0 0 0 0 0 0 0 3 0]
+Cyfra 9: [0 0 0 0 0 0 0 0 0 3]
+
+Testowanie Random Forest na danych EMNIST...
+Rozpoczynamy testowanie...
+Wyniki testowania:
+Accuracy: 0.9738
+Precision: 0.9739
+Recall: 0.9738
+Cyfra 0: [989   1   1   0   6   0   1   0   2   0]
+Cyfra 1: [  0 988   5   3   3   0   0   0   1   0]
+Cyfra 2: [  3   0 975   3   3   0   2   7   7   0]
+Cyfra 3: [  2   0  18 959   0   8   0   3   8   2]
+Cyfra 4: [  2   0   6   0 977   0   1   0   0  14]
+Cyfra 5: [  1   1   0  17   1 971   5   0   3   1]
+Cyfra 6: [  2   1   1   0   1   5 990   0   0   0]
+Cyfra 7: [  0   0   3   0   7   1   1 973   4  11]
+Cyfra 8: [  4   4   2   1  12   9   2   1 952  13]
+Cyfra 9: [  3   3   0  11  12   1   0   2   4 964]
+
+Testowanie Random Forest na własnych danych testowych...
+Rozpoczynamy testowanie...
+Wyniki testowania:
+Accuracy: 0.6000
+Precision: 0.5450
+Recall: 0.6000
+Cyfra 0: [0 0 0 0 1 0 0 2 0 0]
+Cyfra 1: [0 3 0 0 0 0 0 0 0 0]
+Cyfra 2: [0 1 2 0 0 0 0 0 0 0]
+Cyfra 3: [0 0 0 0 2 0 0 0 0 1]
+Cyfra 4: [0 0 0 0 3 0 0 0 0 0]
+Cyfra 5: [0 0 0 0 0 3 0 0 0 0]
+Cyfra 6: [0 0 0 0 0 2 1 0 0 0]
+Cyfra 7: [0 0 0 0 0 0 0 3 0 0]
+Cyfra 8: [0 0 0 0 0 0 0 0 3 0]
+Cyfra 9: [0 0 0 3 0 0 0 0 0 0]

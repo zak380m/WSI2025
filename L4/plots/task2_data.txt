@@ -1,0 +1,48 @@
+Reduced dimensions from 784 to 15
+Generating k-distance graph for epsilon estimation...
+Suggested eps value: 0.40
+
+Starting grid search...
+
+Trying eps=0.27, min_samples=25
+Clusters: 11, Noise: 0.7%, Accuracy: 88.3%, Misclassification: 11.7%
+
+Trying eps=0.27, min_samples=30
+Clusters: 11, Noise: 0.9%, Accuracy: 97.5%, Misclassification: 2.5%
+
+Trying eps=0.27, min_samples=35
+Clusters: 11, Noise: 1.2%, Accuracy: 97.5%, Misclassification: 2.5%
+
+Trying eps=0.30, min_samples=25
+Clusters: 10, Noise: 0.4%, Accuracy: 88.3%, Misclassification: 11.7%
+
+Trying eps=0.30, min_samples=30
+Clusters: 10, Noise: 0.5%, Accuracy: 88.3%, Misclassification: 11.7%
+
+Trying eps=0.30, min_samples=35
+Clusters: 10, Noise: 0.7%, Accuracy: 88.3%, Misclassification: 11.7%
+
+Trying eps=0.33, min_samples=25
+Clusters: 10, Noise: 0.2%, Accuracy: 88.2%, Misclassification: 11.8%
+
+Trying eps=0.33, min_samples=30
+Clusters: 10, Noise: 0.3%, Accuracy: 88.3%, Misclassification: 11.7%
+
+Trying eps=0.33, min_samples=35
+Clusters: 10, Noise: 0.3%, Accuracy: 88.3%, Misclassification: 11.7%
+
+Trying eps=0.36, min_samples=25
+Clusters: 9, Noise: 0.1%, Accuracy: 79.1%, Misclassification: 20.9%
+
+Trying eps=0.36, min_samples=30
+Clusters: 10, Noise: 0.2%, Accuracy: 88.2%, Misclassification: 11.8%
+
+Trying eps=0.36, min_samples=35
+Clusters: 10, Noise: 0.2%, Accuracy: 88.3%, Misclassification: 11.7%
+
+=== Best Results ===
+Parameters: eps=0.27, min_samples=30
+Clusters: 11
+Noise percentage: 0.9%
+Accuracy: 97.5%
+Misclassification: 2.5%

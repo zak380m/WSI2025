@@ -1,0 +1,90 @@
+=== Running for 10 clusters ===
+Inertia: 15754901.75
+Cluster to digit mapping:
+Cluster 0: Mostly digit 6
+Cluster 1: Mostly digit 1
+Cluster 2: Mostly digit 1
+Cluster 3: Mostly digit 2
+Cluster 4: Mostly digit 9
+Cluster 5: Mostly digit 8
+Cluster 6: Mostly digit 0
+Cluster 7: Mostly digit 9
+Cluster 8: Mostly digit 0
+Cluster 9: Mostly digit 3
+
+=== Running for 15 clusters ===
+Inertia: 14687256.30
+Cluster to digit mapping:
+Cluster 0: Mostly digit 9
+Cluster 1: Mostly digit 5
+Cluster 2: Mostly digit 8
+Cluster 3: Mostly digit 2
+Cluster 4: Mostly digit 1
+Cluster 5: Mostly digit 0
+Cluster 6: Mostly digit 3
+Cluster 7: Mostly digit 6
+Cluster 8: Mostly digit 9
+Cluster 9: Mostly digit 6
+Cluster 10: Mostly digit 7
+Cluster 11: Mostly digit 3
+Cluster 12: Mostly digit 0
+Cluster 13: Mostly digit 1
+Cluster 14: Mostly digit 4
+
+=== Running for 20 clusters ===
+Inertia: 13938226.45
+Cluster to digit mapping:
+Cluster 0: Mostly digit 3
+Cluster 1: Mostly digit 9
+Cluster 2: Mostly digit 1
+Cluster 3: Mostly digit 6
+Cluster 4: Mostly digit 6
+Cluster 5: Mostly digit 3
+Cluster 6: Mostly digit 0
+Cluster 7: Mostly digit 7
+Cluster 8: Mostly digit 8
+Cluster 9: Mostly digit 0
+Cluster 10: Mostly digit 4
+Cluster 11: Mostly digit 1
+Cluster 12: Mostly digit 5
+Cluster 13: Mostly digit 1
+Cluster 14: Mostly digit 8
+Cluster 15: Mostly digit 9
+Cluster 16: Mostly digit 2
+Cluster 17: Mostly digit 7
+Cluster 18: Mostly digit 5
+Cluster 19: Mostly digit 2
+
+=== Running for 30 clusters ===
+Inertia: 13080984.80
+Cluster to digit mapping:
+Cluster 0: Mostly digit 0
+Cluster 1: Mostly digit 5
+Cluster 2: Mostly digit 9
+Cluster 3: Mostly digit 9
+Cluster 4: Mostly digit 6
+Cluster 5: Mostly digit 8
+Cluster 6: Mostly digit 3
+Cluster 7: Mostly digit 9
+Cluster 8: Mostly digit 0
+Cluster 9: Mostly digit 1
+Cluster 10: Mostly digit 0
+Cluster 11: Mostly digit 6
+Cluster 12: Mostly digit 7
+Cluster 13: Mostly digit 2
+Cluster 14: Mostly digit 8
+Cluster 15: Mostly digit 4
+Cluster 16: Mostly digit 6
+Cluster 17: Mostly digit 0
+Cluster 18: Mostly digit 7
+Cluster 19: Mostly digit 2
+Cluster 20: Mostly digit 1
+Cluster 21: Mostly digit 6
+Cluster 22: Mostly digit 1
+Cluster 23: Mostly digit 7
+Cluster 24: Mostly digit 4
+Cluster 25: Mostly digit 5
+Cluster 26: Mostly digit 3
+Cluster 27: Mostly digit 2
+Cluster 28: Mostly digit 4
+Cluster 29: Mostly digit 3
